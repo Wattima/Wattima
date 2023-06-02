@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wattima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wattima&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wattima&layout=donut-vertical)](https://github.com/Wattima/github-readme-stats)
+<a href="https://github.com/Wattima/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wattima&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Wattima/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wattima&repo=convoychat" />
+</a>
