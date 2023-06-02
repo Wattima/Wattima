@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wattima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wattima&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wattima&layout=donut&theme=radical)](https://github.com/Wattima/github-readme-stats)
+![Wattima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wattima&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wattima&layout=donut&theme=dark)](https://github.com/Wattima/github-readme-stats)
