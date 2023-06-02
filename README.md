@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Wattima/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wattima&repo=github-readme-stats" />
-</a>
+![Wattima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wattima&show_icons=true&theme=radical)
 <a href="https://github.com/Wattima/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wattima&repo=convoychat" />
 </a>
