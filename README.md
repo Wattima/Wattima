@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Wattima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wattima&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wattima&layout=donut-vertical)](https://github.com/Wattima/github-readme-stats)
