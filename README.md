@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Wattima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wattima&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wattima&layout=donut&theme=dark)](https://github.com/Wattima/github-readme-stats)
-[![Wattima's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wattima&theme=dark)](https://github.com/Wattima/github-readme-stats)
+
